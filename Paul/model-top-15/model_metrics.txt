@@ -1,0 +1,27 @@
+Accuracy: 0.8887043189368771
+Precision: 0.8915403052679337
+Recall: 0.8887043189368771
+F1 Score: 0.8888268519569297
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        aunt       0.79      0.90      0.84        29
+       brown       0.85      0.87      0.86        53
+         bug       0.95      0.93      0.94        40
+       clown       0.87      0.96      0.91        48
+        cute       0.84      0.86      0.85        37
+         ear       0.97      0.94      0.96        35
+        feet       0.87      0.80      0.83        49
+        nose       0.83      0.93      0.88        42
+         owl       0.96      0.89      0.92        53
+         pig       0.89      0.89      0.89        38
+         see       0.86      0.91      0.88        33
+        shhh       0.92      0.85      0.88        53
+        sick       0.96      0.88      0.92        25
+       taste       0.93      0.82      0.87        33
+       water       0.89      0.94      0.91        34
+
+    accuracy                           0.89       602
+   macro avg       0.89      0.89      0.89       602
+weighted avg       0.89      0.89      0.89       602
