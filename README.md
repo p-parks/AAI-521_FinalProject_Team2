@@ -10,6 +10,10 @@ Team Members:
 
 Create AI model to detect ASL gestures.
 
+## Final Report
+
+The Final Report, Presentation, and Slides are located in the `./FinalReport` directory.
+
 ## Dataset
 
 The dataset chosen is the Google - Isolated Sign Language Recognition: 
